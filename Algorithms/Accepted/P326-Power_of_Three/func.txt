@@ -1,0 +1,10 @@
+
+\frac{\log_10 n}{\log_10 3} == {\log_3 n}
+
+ceil(x), return smallest integer bigger or equal to x;
+ex: 
+    ceil(10.5) == 11    ceil(-10.5) ==-10
+
+floor(x), return biggest integer smaller or equal to x;
+ex:
+    floor(10.5) == 10    floor(-10.5) == -11

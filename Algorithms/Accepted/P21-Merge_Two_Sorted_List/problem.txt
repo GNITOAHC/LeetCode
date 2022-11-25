@@ -1,0 +1,1 @@
+p21.c -> Create a new Linked list
