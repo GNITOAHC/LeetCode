@@ -180,3 +180,14 @@
 - P1671-Minimum_Number_of_Removals_to_Make_Mountain_Array
 
 </details>
+
+## Shell
+
+### Easy
+
+<details>
+<summary> 0 - 500 </summary>
+
+- P193-Valid_Phone_Numbers
+
+</details>
