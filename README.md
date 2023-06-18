@@ -99,6 +99,7 @@
 - P105-Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal
 - P120-Triangle
 - P122-Best_Time_to_Buy_and_Sell_Stock_II
+- P128-Longest_Consecutive_Sequence
 - P139-Word_Break
 - P142-Linked_List_Cycle_II
 - P152-Maximum_Product_Subarray
