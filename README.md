@@ -193,3 +193,14 @@
 - P193-Valid_Phone_Numbers
 
 </details>
+
+## JavaScript
+
+### Easy
+
+<details>
+<summary> 2501 - 3000 </summary>
+
+- P2626-Array_Reduce_Transformation
+
+</details>
