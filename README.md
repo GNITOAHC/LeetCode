@@ -216,3 +216,12 @@
 - P175-Combine_Two_Tables
 
 </details>
+
+### Medium
+
+<details>
+<summary> 1 - 500 </summary>
+
+- P176-Second_Highest_Salary
+
+</details>
