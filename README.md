@@ -205,3 +205,14 @@
 - P2626-Array_Reduce_Transformation
 
 </details>
+
+## Database
+
+### Easy
+
+<details>
+<summary> 1 - 500 </summary>
+
+- P175-Combine_Two_Tables
+
+</details>
