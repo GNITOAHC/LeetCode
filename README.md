@@ -131,6 +131,7 @@
 - P707-Design_Linked_List
 - P718-Maximum_Length_of_Repeated_Subarray
 - P743-Network_Delay_Time
+- P790-Domino_and_Tromino_Tiling
 - P787-Cheapest_Flights_Within_K_Stops
 - P814-Binary_Tree_Pruning
 
