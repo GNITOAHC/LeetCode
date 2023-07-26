@@ -130,6 +130,7 @@
 - P695-Max_Area_of_Island
 - P707-Design_Linked_List
 - P718-Maximum_Length_of_Repeated_Subarray
+- P739-Daily_Temperatures
 - P743-Network_Delay_Time
 - P790-Domino_and_Tromino_Tiling
 - P787-Cheapest_Flights_Within_K_Stops
