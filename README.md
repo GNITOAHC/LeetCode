@@ -151,6 +151,7 @@
 
 - P1584-Min_Cost_to_Connect_All_Points
 - P1657-Determine_if_Two_Strings_Are_Close
+- P1679-Max_Number_of_K-Sum_Pairs
 
 </details>
 <details>
