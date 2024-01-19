@@ -134,6 +134,7 @@
 - P743-Network_Delay_Time
 - P790-Domino_and_Tromino_Tiling
 - P787-Cheapest_Flights_Within_K_Stops
+- P808-Soup_Servings
 - P814-Binary_Tree_Pruning
 
 </details>
