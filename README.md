@@ -161,6 +161,7 @@
 
 - P2007-Find_Original_Array_From_Doubled_Array
 - P2104-Sum_of_Subarray_Ranges
+- P2195-Append_K_Integers_With_Minimal_Sum
 - P2244-Minimum_Rounds_to_Complete_All_Tasks
 - P2414-Length_of_the_Longest_Alphabetical_Continuous_Substring
 
